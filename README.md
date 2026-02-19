@@ -2,7 +2,7 @@
 
 **Clone and run for a quick way to see this in action.**
 ```
-git clone https://github.com/
+git clone [https://github.com/Bapquad/php-mongodb-electron.git](https://github.com/Bapquad/php-mongodb-electron.git)
 npm install
 npm start
 ```
@@ -21,7 +21,7 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/
+git clone [https://github.com/Bapquad/php-mongodb-electron.git](https://github.com/Bapquad/php-mongodb-electron.git)
 # Go into the repository
 cd PHP&Mongo-Election
 # Install dependencies
